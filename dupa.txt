@@ -4,6 +4,7 @@ www.cda.pl##.wrapperDig
 www.cda.pl##body > div:nth-of-type(4)
 www.cda.pl##.button-flick-rot.wlacz-premium
 www.cda.pl##.menu-info-txt-content
+/*www.cda.pl##.nav > li:nth-of-type(6)
 www.cda.pl##.menu-default
 www.cda.pl##.nfooter.pg-cc
 www.cda.pl##div.panel-default.panel:nth-of-type(2)
@@ -14,3 +15,4 @@ www.cda.pl###rightCol
 www.cda.pl##.row-video-clip-wrapper-pd-vid.row-video-clip-wrapper
 www.cda.pl##.bx-bn-pr-SR-prezent-w.bx-bn-pr-SR.bx-bn-pr
 www.cda.pl##.infoBox
+www.cda.pl###dodane_video > div:nth-of-type(2)
